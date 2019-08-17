@@ -1,0 +1,26 @@
+.heading{
+    color: rgb(20, 66, 66);
+     font-size: 40px;
+     padding: 8px;
+}
+
+h1 {
+    color: rgb(20, 66, 66); 
+    font-size: 40px; padding:8px;
+}
+h2{
+    font-variant-caps: all-small-caps; 
+    text-align: center;
+}
+h3{
+    background-color:palegoldenrod;
+}
+.myStyle{
+    font-size: 50px;
+    padding: 10px;
+}
+.Myimagestyle{
+    background-size: cover;
+    background-image:url("pink.png");
+    min-height: 50%;
+}
